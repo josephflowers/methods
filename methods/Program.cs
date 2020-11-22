@@ -12,7 +12,7 @@ namespace methods
     {
         static void Main()
         {
-
+            Console.WriteLine("Hello Humans");
             cars C = new cars();
             //Console.WriteLine("\nInternal Collection (Unsorted - IEnumerable,Enumerator)\n");
             //foreach (car c in C)
